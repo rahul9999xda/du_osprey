@@ -1,5 +1,5 @@
 
-Dirty Unicorns 12.1 for Osprey
+Dirty Unicorns 12.2 for Osprey
 ==============================
 
 Current Status
