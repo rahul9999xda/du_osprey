@@ -28,7 +28,7 @@
 
         <!-- DU -->
 	<remove-project path="vendor/du" name="android_vendor_du"/>
-	<project name="chil360/android_vendor_du" path="vendor/du" remote="github" revision="o8x" />
+	<project name="rahul9999xda/android_vendor_du" path="vendor/du" remote="github" revision="o8x" />
 
       	<remove-project path="frameworks/av" name="android_frameworks_av"/>
 	<project name="chil360/android_frameworks_av" path="frameworks/av" remote="github" revision="o8x-caf" />
